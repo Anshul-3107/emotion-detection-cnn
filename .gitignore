@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Dataset (too large for GitHub)
+dataset/
+
+# Model files
+emotion_model.h5
+emotion_model.tflite
